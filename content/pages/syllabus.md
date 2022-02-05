@@ -28,7 +28,7 @@ This will require not only consideration of scientific objectives and telescope 
 
 > Location of a Lunar Telescope (lunar poles North or South, mid-latitudes, equatorial location, in-space at a Lagrange point EML1, EML2 or ESL2).
 > 
-> Wavelength Band of a Lunar Telescope (radio frequency (e.g. <30 MHz), submillimeter, IR, visual, UV)\*.
+> Wavelength Band of a Lunar Telescope (radio frequency (e.g. \<30 MHz), submillimeter, IR, visual, UV)\*.
 > 
 > Architecture of a Lunar Telescope (aperture size, monolithic, segmented aperture, interferometer/distributed array).
 
