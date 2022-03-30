@@ -6,6 +6,7 @@ description: 'Example of student work: final design report on design for NASA''s
   design should be evaluated with respect to knowledge.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/4ae5350e875507f415951321ce319ea4_report_04.pdf
 file_type: application/pdf
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: "Paradigm Shift in Design for NASA\u2019s New Exploration Initiative"
 uid: 4ae5350e-8755-07f4-1595-1321ce319ea4

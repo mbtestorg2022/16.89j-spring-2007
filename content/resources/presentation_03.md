@@ -9,6 +9,7 @@ description: 'Example of student work: project presentation on rapid modeling of
   can benefit from the trade space analysis provided by this tool.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/b2f21b8e52138407c8ad358f308b7b4c_presentation_03.pdf
 file_type: application/pdf
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'Rapid Modeling of Mars Robotic Explorers: Critical Design Review'
 uid: b2f21b8e-5213-8407-c8ad-358f308b7b4c

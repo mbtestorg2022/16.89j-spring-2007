@@ -8,6 +8,7 @@ description: 'Assignment to map out the key relationships between angular resolu
   sensitivity, system mass, system cost and location.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/0e58d5de69222788d3e5ca011fc87339_assignment_2.pdf
 file_type: application/pdf
+parent_uid: e2873144-e3a6-4338-f4be-862bb942a8b5
 resourcetype: Document
 title: 'Assignment #2'
 uid: 0e58d5de-6922-2788-d3e5-ca011fc87339

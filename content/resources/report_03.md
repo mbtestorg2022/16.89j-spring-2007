@@ -9,6 +9,7 @@ description: 'Example of student work: final design report on rapid modeling of 
   can benefit from the trade space analysis provided by this tool.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/96dda38a45e22490f69a72d8a635af09_report_03.pdf
 file_type: application/pdf
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'Extensible Planetary Surface Mobility Systems: Rapid Modeling of Mars Robotic
   Explorers Critical Design Review'

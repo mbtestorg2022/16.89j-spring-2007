@@ -10,6 +10,7 @@ description: 'Example of student work: project presentation on a lunar telescope
   facility.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/399736dc4d91c7cd8f97b6a4c9a9f52d_presentation.pdf
 file_type: application/pdf
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: "ATA-01-1003 \u2013 Lunar Telescope Facility IDAC3 Results Presentation to\
   \ the CxAWG"

@@ -14,6 +14,7 @@ description: 'Example of student work: final design report on an extensible plan
   days.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/95d926e51c8a1182819fecd66aec5dfb_report_06.pdf
 file_type: application/pdf
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: Extensible Planetary Surface Mobility Systems
 uid: 95d926e5-1c8a-1182-819f-ecd66aec5dfb

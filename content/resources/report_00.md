@@ -9,6 +9,7 @@ description: 'Example of student work: final design report on project to establi
   will be a key enabler for establishing a human presence on Mars.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/3b763b61f12d1387cc1ad7a7c1da2b39_report_00.pdf
 file_type: application/pdf
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'Project MINERVA: Establish an Enabling Space Infrastructure that will Support
   the Exploration of Mars'

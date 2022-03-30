@@ -14,6 +14,7 @@ description: 'Example of student work: project presentation on an extensible pla
   days.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/68578981bacd42a67b431cad987a6853_presentation_06.pdf
 file_type: application/pdf
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 16.89 / ESD 352 Final Design Review
 uid: 68578981-bacd-42a6-7b43-1cad987a6853

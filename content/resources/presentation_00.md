@@ -9,6 +9,7 @@ description: 'Example of student work: Presentation on project to establish an e
   establishing a human presence on Mars.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-89j-space-systems-engineering-spring-2007/005f3a13f6ffaffaef72bbfdf7e62f79_presentation_00.pdf
 file_type: application/pdf
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: MINERVA Critical Design Review
 uid: 005f3a13-f6ff-affa-ef72-bbfdf7e62f79
